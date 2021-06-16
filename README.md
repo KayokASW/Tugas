@@ -1,4 +1,4 @@
 # Tugas
-Dibuat Untuk melengkangkapi Tugas Besar
+Dibuat Untuk melengkapi Tugas Besar
 Nama  : Robbi Gunawan
 NPM   : 192350136
